@@ -28,11 +28,22 @@
 🗹자동으로 사고파는 경제 시스템 구현 </br>
 🗹이벤트 발생으로 게임에 영향을 주는 기능 </br>
 🗹유니티 엔진에 대한 공부와 기본적인 코딩실력 향상 </br>
-
+&nbsp;
 
 ## ✓실용적근거
+![image](https://github.com/eygdk/dreamandreality/assets/117276980/0e7168e8-9484-4413-8a54-954813b3b179)
+### 디지털 트윈
+현실 세계의 대상과 사물에 대한 정보를 사이버 상에 구현하여 실물을 구현한 가상의 소프트웨어 환경 속에서 시뮬레이션을 토대로 모의실험을 구현함으로써 다양한 분야에서 문제점을 먼저 파악하고,최적의 프로세스를 도출하며 영향력을 앞서 평가하는 등 효율성을 모색해 볼 수 있다
+&nbsp;
+
 ## ✓추진일정
+![image](https://github.com/eygdk/dreamandreality/assets/117276980/5f24cf5c-46cd-4c89-b943-fdca9b517e96)
+&nbsp;
+
 ## ✓구현환경
+![image](https://github.com/eygdk/dreamandreality/assets/117276980/776854f3-26fe-4543-8534-2d61c62e1917)
+&nbsp;
+
 ## ✓구현기능
 ## ✓구현사항
 ## ✓느낀점
